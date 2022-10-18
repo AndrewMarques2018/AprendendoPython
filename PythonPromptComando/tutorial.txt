@@ -1,0 +1,4 @@
+cd "Caminho da pasta"
+-m venv env
+"Caminho do arquivo activate.bat"
+python "caminho do arquivo a ser executado"
