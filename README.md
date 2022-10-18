@@ -1,0 +1,2 @@
+# aprendendoPython
+Iniciando jornada python
