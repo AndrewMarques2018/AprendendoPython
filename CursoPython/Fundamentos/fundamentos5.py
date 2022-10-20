@@ -14,10 +14,16 @@ print(l1)
 print(l2)
 
 l1 = list(range(0, 20, 2))
-l2 = ['a', 'b', 'c']
+l2 = ['andrew', 'bruno', 'carlos']
 l2.extend(l1[0:3])
 del (l1[0:2])
 
 print(l1)
 print(f'max:{max(l1)} min {min(l1)}')
 print(l2)
+
+for x in l2:
+    if x.lower().startswith('a'):
+        print(x)
+else:
+    pass
