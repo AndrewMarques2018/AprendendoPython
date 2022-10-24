@@ -14,6 +14,7 @@ def aumentar_preco(p):
     p['preco'] = round(p['preco']*1.10, 2)
     return p
 
+#produtos_novos = map(lambda x: x, produtos)
 produtos_novos = map(aumentar_preco, produtos)
 
 print(produtos)
