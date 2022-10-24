@@ -1,4 +1,22 @@
 # https://docs.python.org/3/library/functions.html#open
+
+""" Macete para recuperar raiz do progama
+try:
+    import sys
+    import os
+
+    sys.path.append(
+        os.path.abspath(
+            os.path.join(
+                os.path.dirname(__file__),
+                '../'
+            )
+        )
+    )
+except ImportError:
+    raise
+"""
+
 import json
 
 file = open('file.txt', 'w+')
