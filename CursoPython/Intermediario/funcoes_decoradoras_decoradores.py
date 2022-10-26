@@ -28,7 +28,6 @@ print("----------------- separador ----------------------")
 from time import time
 from time import sleep
 
-
 def velocidade(funcao):
     def interna(*args, **kwargs):
         start_time = time()
@@ -39,11 +38,9 @@ def velocidade(funcao):
         return resultado
     return interna
 
-
 @velocidade
 def demora():
     for i in range(5):
         sleep(1)
-
 
 demora()
