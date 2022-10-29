@@ -26,6 +26,7 @@ class A:
     def __del__(self):
         print('Objeto coletado.')
 
+    # é chamando toda vez que atribuir um valor novo a uma variável
     def __setattr__(self, key, value):
         self.__dict__[key] = f'{value} adicionei isso no seu valor'
 
