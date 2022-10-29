@@ -43,3 +43,12 @@ class C(B):
 
 c = C()
 print(c.atributo)
+
+T = type(
+    'T',  # nome
+    (),  # herda de
+    {'attr': "Olá mundo!!"}  # atributos
+)
+
+a = T()
+print(a.attr)
