@@ -1,6 +1,6 @@
 """
-    zip - unindo iteráveis
-    zip_longest - intertools
+    zip - unindo iteráveis em uma lista de tamanho da menor lista
+    zip_longest - intertools - unindo iteráveis em uma lista de tamanho da maior lista
 """
 from itertools import zip_longest, count
 

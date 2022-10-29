@@ -1,9 +1,8 @@
 # Expressões Lambda
 # lambda simples, multiplicacao
-a = lambda x, y: x*y
-print(a(2,4))
+a = lambda x, y: x * y
+print(a(2, 4))
 print()
-
 
 # ordenar uma lista
 lista = [
