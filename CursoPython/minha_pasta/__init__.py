@@ -1,0 +1,4 @@
+
+def iniciar():
+    print("iniciando")
+

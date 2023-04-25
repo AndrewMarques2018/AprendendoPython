@@ -1,4 +1,4 @@
-"""Documentação desse modulo
+"""Documentação desse minha_pasta
 
 Ele nã faz nada! È apenas um exemplo
 Typing - https://docs.python.org/3/library/typing.html

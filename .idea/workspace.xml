@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="89a3cf07-936a-4aa4-bbec-9026c802c532" name="Changes" comment="" />
+    <list default="true" id="89a3cf07-936a-4aa4-bbec-9026c802c532" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/AprendendoPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/AprendendoPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoPython/Intermediario/modulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/Intermediario/modulo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoPython/resumos/resumo_arrays.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoPython/resumos/resumo_fundamentos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoPython/uteis/enums.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/uteis/enums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CursoPython/uteis/typehints.py" beforeDir="false" afterPath="$PROJECT_DIR$/CursoPython/uteis/typehints.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,9 +41,16 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/4U/OneDrive/Área de Trabalho/AprendendoPython"
+    "last_opened_file_path": "C:/Users/4U/OneDrive/Cofre_Pessoal_Mod/Projetos/AprendendoPython",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\4U\OneDrive\Cofre_Pessoal_Mod\Projetos\AprendendoPython\CursoPython\modulo" />
+      <recent name="C:\Users\4U\OneDrive\Cofre_Pessoal_Mod\Projetos\AprendendoPython\CursoPython\Intermediario" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,5 +61,16 @@
       <updated>1681669196370</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/CursoPython/Intermediario/dir_hasattr_getattr.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
