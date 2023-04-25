@@ -1,5 +1,5 @@
+
 # while
-""""
 x = 0
 while x < 5:
     x += 1
@@ -12,7 +12,7 @@ x = 0
 while x < len(frase):
     print(frase[x])
     x += 1
-"""
+
 
 #for
 frase = 'Ola meu nome e andrew'
